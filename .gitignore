@@ -16,6 +16,12 @@
 /.vinext/
 /out/
 
+dist
+.vinext
+.wrangler
+.next
+node_modules
+
 # misc
 .DS_Store
 *.pem
